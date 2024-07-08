@@ -1,4 +1,4 @@
-- Miuicamera Leica v.4.5 for crDroid 14 QPR2/QPR3.
+- Miuicamera Leica v.4.5 for crDroid 14 miatoll QPR2/QPR3.
 - The apk is too big, in the "proprietary/system/priv-app/MiuiCamera/apk.txt" is the link where can found that "miuicamera.apk".
 - To use it add to "device.mk" the "$(call inherit-product-if-exists, vendor/xiaomi/miuicamera/config.mk)" line.
 - If crashing when taking pictures, in the settings: enable the "Experimental features" and disable the "Turn on parallel processing".
