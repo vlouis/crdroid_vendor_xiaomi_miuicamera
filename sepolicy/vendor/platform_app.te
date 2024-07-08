@@ -1,0 +1,6 @@
+r_dir_file(platform_app, cgroup)
+
+get_prop(platform_app, vendor_audio_prop)
+get_prop(platform_app, vendor_display_prop)
+
+allow platform_app app_data_file:file { execute };
