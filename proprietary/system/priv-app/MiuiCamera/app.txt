@@ -1,0 +1,1 @@
+Use the "MiuiCamera.apk" file from "https://gitlab.com/crdroidandroid/proprietary_vendor_xiaomi_miuicamera"
